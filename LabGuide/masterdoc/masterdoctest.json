@@ -2,7 +2,6 @@
     {
         "Name": "DevOps-DevSecOps Hackathon Day 1 - Solution",
         "Language": "English",
-        "BaseURL": "https://github.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/tree/main/Coach/Solution-Guide/Hackathon-Day-1",
         "Files": [
             {
                 "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/main/Coach/Solution-Guide/Hackathon-Day-1/Challenge-1.md",
