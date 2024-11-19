@@ -1,29 +1,27 @@
-[
+[ {
+  "Name": "Microsoft 365 Defender Suite",
+  "Language": "English",
+  "Files": [
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/refs/heads/main/Coach/Solution-Guide/Hackathon-Day-1/Challenge-1.md",
+        "Order": 1
+     },
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/refs/heads/main/Coach/Solution-Guide/Hackathon-Day-1/Challenge-2.md",
+        "Order": 2
+     },
     {
-        "Name": "DevOps-DevSecOps Hackathon Day 1 - Solution",
-        "Language": "English",
-        "BaseURL": "https://github.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/tree/Microsoft_repo/Coach/Solution-Guide/Hackathon-Day-1",
-        "Files": [
-            {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/Microsoft_repo/Coach/Solution-Guide/Hackathon-Day-1/Challenge-1.md",
-                "Order": 1
-            },
-            {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/Microsoft_repo/Coach/Solution-Guide/Hackathon-Day-1/Challenge-2.md",
-                "Order": 2
-            },
-            {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/Microsoft_repo/Coach/Solution-Guide/Hackathon-Day-1/Challenge-3.md",
-                "Order": 3
-            },
-            {
-                "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-104-MicrosoftAzureAdministrator/prod/Instructions/Labs/LAB_09a-Implement_Web_Apps.md",
-                "Order": 4
-            },
-            {
-                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/Microsoft_repo/Coach/Solution-Guide/Hackathon-Day-1/Challenge-5.md",
-                "Order": 5
-            }
-        ]
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/refs/heads/main/Coach/Solution-Guide/Hackathon-Day-1/Challenge-3.md",
+        "Order": 3
+     },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/DevOps-DevSecOps-Hackathon/refs/heads/main/Coach/Solution-Guide/Hackathon-Day-1/Challenge-4.md",
+      "Order": 4
+    },
+    {
+      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab03.md",
+      "Order": 5
     }
+  ]
+} 
 ]
